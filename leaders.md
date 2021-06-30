@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Aleksei Dremin](mailto:aleksei.dremin@owasp.org)
+* [Alexey Mitrofanov](mailto:alexey.mitrofanove@owasp.org)
