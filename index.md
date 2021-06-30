@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Riga
 tags: example-tag
 region: Eastern Europe
-meetup-group:
+meetup-group: owasp-riga
 
 ---
 
