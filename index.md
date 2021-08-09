@@ -16,7 +16,7 @@ Welcome to OWASP Riga! This chapter is built to share the knowledge regarding ap
 Call For Speakers is open!!!
 If you are interested in submitting a training or talk, please do so.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Next Meeting/Event 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
