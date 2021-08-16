@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Riga
 tags: OWASP Riga Chapter Latvia
-region: Eastern Europe
+region: Europe
 meetup-group: owasp-riga
 
 ---
