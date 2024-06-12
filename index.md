@@ -15,7 +15,7 @@ Welcome to OWASP Riga! This chapter is built to share the knowledge regarding ap
 
 
 ## Call for Speakers
-Call For Speakers is open - if you would like to present a talk at future OWASP Riga Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your talk proposal [via email](mailto:andrey.gubarev@owasp.org).
+Call For Speakers is open - if you would like to present a talk at future OWASP Riga Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your talk proposal [via email](mailto:owasp-riga-chapter@owasp.org).
 
 Next Meeting/Event 
 ---------------------
