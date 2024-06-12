@@ -5,7 +5,7 @@ title: OWASP Riga
 tags: OWASP Riga Chapter Latvia
 region: Europe
 country: Latvia
-meetup-group: 
+meetup-group: owasp-riga-chapter
 
 ---
 
