@@ -6,4 +6,5 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-riga-chapter/)
+* [LinkedIn](https://www.linkedin.com/company/owasp-riga/)
 * [YouTube](https://www.youtube.com/@OWASPRiga)
