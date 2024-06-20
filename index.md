@@ -11,6 +11,9 @@ meetup-group: owasp-riga-chapter
 
 
 ## Welcome
+
+<img src="assets/images/OWASP Riga Chapter Logo2.png" alt="OWASP Riga">
+
 Welcome to OWASP Riga! This chapter is built to share the knowledge regarding application security and other security stuff. The Chapter Leaders are <a href="mailto:andrey.gubarev@owasp.org">Andrey Gubarev</a>, <a href="mailto:jurijs.rapoports@owasp.org">Jurijs Rapoports</a>
 
 
