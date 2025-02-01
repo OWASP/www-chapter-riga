@@ -20,6 +20,3 @@ Please follow OWASP Riga on [LinkedIn](https://www.linkedin.com/company/owasp-ri
 OWASP Riga Chapter past events can be found on Meetup:
 
 [https://www.meetup.com/owasp-riga-chapter/events/?type=past/](https://www.meetup.com/owasp-riga-chapter/events/?type=past/)
-
----
-{% include chapter_events.html group=page.meetup-group %}
