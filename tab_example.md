@@ -1,7 +1,7 @@
 ---
 title: Example
 layout:  null
-tab: false
+tab: true
 order: 1
 tags: example-tag
 ---
